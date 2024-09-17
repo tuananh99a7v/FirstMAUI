@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "MNlPIC1a6Tg=",
+  "dgSpecHash": "IaYSKI4uVfc=",
   "success": true,
   "projectFilePath": "/Users/anhlt2/Documents/FirstMAUI/MauiApp1/MauiApp1.csproj",
   "expectedPackageFiles": [
+    "/Users/anhlt2/.nuget/packages/communitytoolkit.mvvm/8.3.1/communitytoolkit.mvvm.8.3.1.nupkg.sha512",
     "/Users/anhlt2/.nuget/packages/googlegson/2.10.1.4/googlegson.2.10.1.4.nupkg.sha512",
     "/Users/anhlt2/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "/Users/anhlt2/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
@@ -24,6 +25,7 @@
     "/Users/anhlt2/.nuget/packages/microsoft.maui.graphics/8.0.82/microsoft.maui.graphics.8.0.82.nupkg.sha512",
     "/Users/anhlt2/.nuget/packages/microsoft.maui.resizetizer/8.0.82/microsoft.maui.resizetizer.8.0.82.nupkg.sha512",
     "/Users/anhlt2/.nuget/packages/microsoft.net.illink.tasks/8.0.8/microsoft.net.illink.tasks.8.0.8.nupkg.sha512",
+    "/Users/anhlt2/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
     "/Users/anhlt2/.nuget/packages/xamarin.android.glide/4.15.1.2/xamarin.android.glide.4.15.1.2.nupkg.sha512",
     "/Users/anhlt2/.nuget/packages/xamarin.android.glide.annotations/4.15.1.2/xamarin.android.glide.annotations.4.15.1.2.nupkg.sha512",
     "/Users/anhlt2/.nuget/packages/xamarin.android.glide.disklrucache/4.15.1.2/xamarin.android.glide.disklrucache.4.15.1.2.nupkg.sha512",
@@ -108,12 +110,5 @@
     "/Users/anhlt2/.nuget/packages/xamarin.kotlinx.coroutines.android/1.7.2.1/xamarin.kotlinx.coroutines.android.1.7.2.1.nupkg.sha512",
     "/Users/anhlt2/.nuget/packages/xamarin.kotlinx.coroutines.core.jvm/1.7.2.1/xamarin.kotlinx.coroutines.core.jvm.1.7.2.1.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: Access to the path '/Users/anhlt2/.local/share/NuGet/http-cache' is denied."
-    }
-  ]
+  "logs": []
 }

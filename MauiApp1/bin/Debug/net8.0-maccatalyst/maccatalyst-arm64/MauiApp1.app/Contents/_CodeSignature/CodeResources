@@ -47,18 +47,25 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>MonoBundle/CommunityToolkit.Mvvm.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			j0fNhyhmxrdcCwl0dSGaZpqLDLufMwkRIEadQG/MwlY=
+			</data>
+		</dict>
 		<key>MonoBundle/MauiApp1.dll</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+X6ctH2cewZhSIqRA4uThOtiiN7AMUe/XhpWOQf/in8=
+			i6RHnuHxyAEQR1LDGJlAYHbxq3WOEv3EZPjALvIrgGM=
 			</data>
 		</dict>
 		<key>MonoBundle/MauiApp1.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wux0Ne6RnPtVNELDK8CifyLue9cyq/z8pB2ct/pi0+Y=
+			50fXgrKQW6aTaQVoHp70ggj3VE06z5NmuoxHK25cIbw=
 			</data>
 		</dict>
 		<key>MonoBundle/Microsoft.CSharp.dll</key>
@@ -152,13 +159,6 @@
 			s1iA0dObXNvxTyB7uBOO2KVHRGDRMN1kZpqPBsij5ik=
 			</data>
 		</dict>
-		<key>MonoBundle/Microsoft.Maui.Controls.HotReload.Forms.dll</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			V4MbGoVFqzgPDgN+Y6Yrk5qSKyM1Eo3MvxElfkUPpn8=
-			</data>
-		</dict>
 		<key>MonoBundle/Microsoft.Maui.Controls.Xaml.dll</key>
 		<dict>
 			<key>hash2</key>
@@ -208,20 +208,6 @@
 			GLNwMVguoLYRgW7HbGzhU2+gMPbuBQ2Q0JlSC0rNwDU=
 			</data>
 		</dict>
-		<key>MonoBundle/Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			CJvF+gTWGscKqzWBsKBe31RPPB1ETz1PYPcjkx3xkss=
-			</data>
-		</dict>
-		<key>MonoBundle/Microsoft.VisualStudio.DesignTools.TapContract.dll</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			SqA5BMeYTxAbd7RKlJc73Z8zPbBOWAaYzsWWjHNOSuM=
-			</data>
-		</dict>
 		<key>MonoBundle/Microsoft.Win32.Primitives.dll</key>
 		<dict>
 			<key>hash2</key>
@@ -234,6 +220,13 @@
 			<key>hash2</key>
 			<data>
 			d8TldomKIUyoyFswwMpbwauKjTYeAhjVYiE3T8U5R5g=
+			</data>
+		</dict>
+		<key>MonoBundle/Newtonsoft.Json.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cs8pHUurDt0IqbB8YXPh560au3q3J/1wRL9jBddRVmE=
 			</data>
 		</dict>
 		<key>MonoBundle/System.AppContext.dll</key>
@@ -1374,7 +1367,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XKeHDqyEaLOGLmR0jwrOydRirHxeHFDwmrDuGbKwLZM=
+			0RJg3pcoCR2H+0iHgYiSEd+x4mZh+je7nU0L9lpja1w=
 			</data>
 		</dict>
 		<key>MonoBundle/ar/Microsoft.Maui.Controls.resources.dll</key>
@@ -1577,7 +1570,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZlFfGnlC3L3W79Mk7oFQBLObWxc/8JPosJSOWBQDNpc=
+			33fLfq8F8YJzr1dQWdtzxvqXTqbGOq2MCFrtTEGQsZM=
 			</data>
 		</dict>
 		<key>MonoBundle/sk/Microsoft.Maui.Controls.resources.dll</key>

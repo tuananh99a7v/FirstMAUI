@@ -1,23 +1,38 @@
 using System;
+using System.Collections.ObjectModel;
 using System.ComponentModel;
+using CommunityToolkit.Mvvm.ComponentModel;
+using CommunityToolkit.Mvvm.Input;
+
 
 namespace MauiApp1.ViewModel;
 
-public class FirstPageViewModel : INotifyPropertyChanged
+public partial class FirstPageViewModel : ObservableObject
 {
-    public event PropertyChangedEventHandler? PropertyChanged;
+    public FirstPageViewModel()
+    {
+        Items = new ObservableCollection<string?>();
+    }
+    [ObservableProperty]
+    ObservableCollection<string?> items;
 
-    void OnPropertyChanged(string name) =>
-                            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(name));
-    // public string? Text { get; set; }
+    [ObservableProperty]
     string? text;
 
-    public string? Text {
-        get => text;
-        set {
-            text= value;
-            OnPropertyChanged(nameof(Text));
-        }
+    [RelayCommand]
+    void Add()
+    {
+        if (string.IsNullOrEmpty(Text)) return;
+
+        Items.Add(Text);
+        Text = string.Empty;
+    }
+
+    [RelayCommand]
+    void Delete(string? s)
+    {
+        if(Items.Contains(s))
+            Items.Remove(s);
     }
 
 }

@@ -34,6 +34,7 @@
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiApp1.app/Contents/MonoBundle/zh-Hans/Microsoft.Maui.Controls.resources.dll
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiApp1.app/Contents/MonoBundle/zh-Hant/Microsoft.Maui.Controls.resources.dll
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiApp1.app/Contents/MonoBundle/runtimeconfig.bin
+/Users/anhlt2/Documents/FirstMAUI/MauiApp1/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiApp1.app/Contents/MonoBundle/CommunityToolkit.Mvvm.dll
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiApp1.app/Contents/MonoBundle/Microsoft.Extensions.Configuration.dll
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiApp1.app/Contents/MonoBundle/Microsoft.Extensions.Configuration.Abstractions.dll
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiApp1.app/Contents/MonoBundle/Microsoft.Extensions.DependencyInjection.dll
@@ -49,9 +50,7 @@
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiApp1.app/Contents/MonoBundle/Microsoft.Maui.dll
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiApp1.app/Contents/MonoBundle/Microsoft.Maui.Essentials.dll
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiApp1.app/Contents/MonoBundle/Microsoft.Maui.Graphics.dll
-/Users/anhlt2/Documents/FirstMAUI/MauiApp1/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiApp1.app/Contents/MonoBundle/Microsoft.Maui.Controls.HotReload.Forms.dll
-/Users/anhlt2/Documents/FirstMAUI/MauiApp1/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiApp1.app/Contents/MonoBundle/Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
-/Users/anhlt2/Documents/FirstMAUI/MauiApp1/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiApp1.app/Contents/MonoBundle/Microsoft.VisualStudio.DesignTools.TapContract.dll
+/Users/anhlt2/Documents/FirstMAUI/MauiApp1/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiApp1.app/Contents/MonoBundle/Newtonsoft.Json.dll
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiApp1.app/Contents/MonoBundle/MauiApp1.dll
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiApp1.app/Contents/MonoBundle/Microsoft.CSharp.dll
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiApp1.app/Contents/MonoBundle/Microsoft.VisualBasic.Core.dll

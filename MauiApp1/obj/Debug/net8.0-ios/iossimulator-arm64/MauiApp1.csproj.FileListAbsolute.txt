@@ -1,6 +1,7 @@
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/bin/Debug/net8.0-ios/iossimulator-arm64/MauiApp1.runtimeconfig.json
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/bin/Debug/net8.0-ios/iossimulator-arm64/MauiApp1.dll
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/bin/Debug/net8.0-ios/iossimulator-arm64/MauiApp1.pdb
+/Users/anhlt2/Documents/FirstMAUI/MauiApp1/bin/Debug/net8.0-ios/iossimulator-arm64/CommunityToolkit.Mvvm.dll
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/bin/Debug/net8.0-ios/iossimulator-arm64/Microsoft.Extensions.Configuration.dll
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/bin/Debug/net8.0-ios/iossimulator-arm64/Microsoft.Extensions.Configuration.Abstractions.dll
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/bin/Debug/net8.0-ios/iossimulator-arm64/Microsoft.Extensions.DependencyInjection.dll
@@ -16,6 +17,7 @@
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/bin/Debug/net8.0-ios/iossimulator-arm64/Microsoft.Maui.dll
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/bin/Debug/net8.0-ios/iossimulator-arm64/Microsoft.Maui.Essentials.dll
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/bin/Debug/net8.0-ios/iossimulator-arm64/Microsoft.Maui.Graphics.dll
+/Users/anhlt2/Documents/FirstMAUI/MauiApp1/bin/Debug/net8.0-ios/iossimulator-arm64/Newtonsoft.Json.dll
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/bin/Debug/net8.0-ios/iossimulator-arm64/ar/Microsoft.Maui.Controls.resources.dll
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/bin/Debug/net8.0-ios/iossimulator-arm64/ca/Microsoft.Maui.Controls.resources.dll
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/bin/Debug/net8.0-ios/iossimulator-arm64/cs/Microsoft.Maui.Controls.resources.dll
@@ -304,6 +306,7 @@
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/MauiApp1.AssemblyInfoInputs.cache
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/MauiApp1.AssemblyInfo.cs
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/MauiApp1.csproj.CoreCompileInputs.cache
+/Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/MauiApp1.sourcelink.json
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/XamlC.stamp
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/MauiApp1.csproj.Up2Date
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/MauiApp1.dll
@@ -314,6 +317,7 @@
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/bin/Debug/net8.0-ios/iossimulator-arm64/Microsoft.Maui.Controls.HotReload.Forms.dll
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/bin/Debug/net8.0-ios/iossimulator-arm64/Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/bin/Debug/net8.0-ios/iossimulator-arm64/Microsoft.VisualStudio.DesignTools.TapContract.dll
+/Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/CommunityToolkit.Mvvm.stamp
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.CSharp.stamp
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Configuration.Abstractions.stamp
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Configuration.stamp
@@ -327,16 +331,20 @@
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.iOS.stamp
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Maui.Controls.Compatibility.stamp
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Maui.Controls.stamp
+/Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Maui.Controls.HotReload.Forms.stamp
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Maui.Controls.Xaml.stamp
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Maui.stamp
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Maui.Essentials.stamp
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Maui.Graphics.stamp
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.VisualBasic.Core.stamp
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.VisualBasic.stamp
+/Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.VisualStudio.DesignTools.MobileTapContracts.stamp
+/Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.VisualStudio.DesignTools.TapContract.stamp
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Win32.Primitives.stamp
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Win32.Registry.stamp
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/mscorlib.stamp
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/netstandard.stamp
+/Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Newtonsoft.Json.stamp
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.AppContext.stamp
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Buffers.stamp
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Collections.Concurrent.stamp
@@ -493,4 +501,3 @@
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Xml.XPath.stamp
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Xml.XPath.XDocument.stamp
 /Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/WindowsBase.stamp
-/Users/anhlt2/Documents/FirstMAUI/MauiApp1/obj/Debug/net8.0-ios/iossimulator-arm64/MauiApp1.sourcelink.json

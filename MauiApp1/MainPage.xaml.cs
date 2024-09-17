@@ -1,4 +1,6 @@
-﻿namespace MauiApp1;
+﻿using MauiApp1.ViewModel;
+
+namespace MauiApp1;
 
 public partial class MainPage : ContentPage
 {
@@ -23,7 +25,7 @@ public partial class MainPage : ContentPage
 
 	private async void OnTargetClicked(object sender, EventArgs e)
 	{
-		await Navigation.PushAsync(new FirstPage());
+		await Navigation.PushAsync(new FirstPage(new FirstPageViewModel()));
 		
 	}
 
